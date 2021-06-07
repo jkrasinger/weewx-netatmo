@@ -283,7 +283,7 @@ class CloudClient(Collector):
     """
 
     # endpoints for the cloud queries
-    NETATMO_URL = 'https://api.netatmo.net'
+    NETATMO_URL = 'https://api.netatmo.com'
     AUTH_URL = '/oauth2/token'
     DATA_URL = '/api/getstationsdata'
     GETM_URL = '/api/getmeasure'

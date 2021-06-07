@@ -55,7 +55,7 @@ Installation instructions:
 
 1) download the driver:
 
-wget -O weewx-netatmo.zip https://github.com/jkrasinger/weewx-netatmo/archive/master.zip
+wget -O weewx-netatmo.zip https://github.com/smoldersj/weewx-netatmo/archive/master.zip
 
 2) install the driver:
 
